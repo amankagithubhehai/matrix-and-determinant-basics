@@ -9,4 +9,8 @@ It is designed to help students, researchers, and developers understand and appl
 - Easy-to-follow code and documentation
 - Educational resource for MFCS topics
 
-
+## 🛠️ Installation
+Clone the repository:
+```bash
+git clone https://github.com/your-username/mfcs-innovative.git
+cd mfcs-innovative
